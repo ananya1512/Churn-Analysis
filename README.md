@@ -1,4 +1,4 @@
-# **Analyzing Customer Churn and Satisfaction in a Subscription-Based Financial Advisory Service**
+# **Analyzing Customer Churn in a Subscription-Based Financial Advisory Service**
 
 **Executive Summary**
 
