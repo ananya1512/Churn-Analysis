@@ -41,3 +41,16 @@ The analysis is based on data collected from customer interactions, product subs
 * **Monitor Trends:** Continuously track customer behavior, support interactions, and churn rates to identify emerging trends and take proactive measures.
 
 By addressing these recommendations, the company can improve customer retention, enhance product offerings, and drive overall business growth.
+
+![Number of Signup Cases for Annual Subscriptions](https://github.com/user-attachments/assets/f993eb90-3372-4752-888b-0bdd4390186c)
+
+![Number of Signup Cases for Monthly Subscriptions](https://github.com/user-attachments/assets/de781811-d8d6-4d76-a719-6c698c15a8ea)
+
+![Number of Support Cases for Annual Subscriptions](https://github.com/user-attachments/assets/e23b0cff-cfd7-4434-8b89-28cec9135a6e)
+
+![Number of Support Cases for Monthly Subscriptions](https://github.com/user-attachments/assets/a0d4118d-841e-48ea-b081-e49b33e5ec47)
+
+
+
+
+
