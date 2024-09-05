@@ -34,7 +34,7 @@ The analysis is based on data collected from customer interactions, product subs
 
 **Recommendations**
 
-* **Expand Support Channels:** Consider introducing email support to streamline the process for customers and staff.
+* **Expand Support Channels:** Consider introducing email signup option to streamline the process for customers and staff.
 * **Address Churn Drivers:** Investigate the underlying causes of the increased churn rates, particularly the spikes in **2019** and **2021**.
 * **Optimize Product Offerings:** Evaluate the performance of annual and monthly subscription models to identify potential improvements.
 * **Enhance Customer Experience:** Focus on improving customer satisfaction and reducing support case volume.
